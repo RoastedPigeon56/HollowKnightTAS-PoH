@@ -1,6 +1,6 @@
 OS: Ubuntu 20.04.1 LTS amd64 with Linux kernel 5.4.0-56-amd64
 libTAS v1.4.0
-Game executable is `/path/to/game/hollow_knight.x86_64`
+Game executable is `C:\Program Files (x86)\Steam\steamapps\common\Hollow Knight`
 
 To sync: 
 Runtime > Virtual Steam Client: checked
